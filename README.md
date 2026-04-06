@@ -52,7 +52,7 @@ I actively design and build real-world systems including robotic arms, automatio
 
 * SCARA Robot (Sorting Automation)
 * 3D Printer (Custom Build)
-* Spider Robot (6 DOF Walking Robot)
+* Warehouse Management System
 
 ---
 
@@ -70,7 +70,6 @@ Designed industrial automation systems including gauges, fixtures, SPMs, robotic
 
 ## 🤖 Other Projects
 
-* Warehouse Management System
 * Humanoid Robot
 * Agriculture Spraying Bot
 * Quadcopter
