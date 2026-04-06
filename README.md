@@ -88,7 +88,7 @@ Designed industrial automation systems including gauges, fixtures, SPMs, robotic
 ## 📬 Contact
 
 * 📞 Phone: (Your Number)
-* 🔗 LinkedIn: (Your LinkedIn Link)
+* 🔗 LinkedIn: www.linkedin.com/in/saurabh-dukare-4b5a40253
 
 ---
 
