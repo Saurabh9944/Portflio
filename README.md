@@ -38,7 +38,7 @@ I actively design and build real-world systems including robotic arms, automatio
 
 ### 🤖 Robotics & Embedded
 
-* Arduino, Raspberry Pi
+* Arduino, Raspberry Pi, ESP32
 * Sensors, Motors, IoT
 * PLC (Mitsubishi), HMI
 
